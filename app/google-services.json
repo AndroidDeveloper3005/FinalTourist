@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "988600641069",
+    "firebase_url": "https://finaltourist-ef1d6.firebaseio.com",
+    "project_id": "finaltourist-ef1d6",
+    "storage_bucket": "finaltourist-ef1d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988600641069:android:6efeefc56ab3b58f",
+        "android_client_info": {
+          "package_name": "com.himel.androiddeveloper3005.finaltourist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988600641069-bn10asnk4vk3qc4252mupr4ek9he2u71.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.himel.androiddeveloper3005.finaltourist",
+            "certificate_hash": "44b0efc0043ecf343c8b4556c0bb89e021bf248e"
+          }
+        },
+        {
+          "client_id": "988600641069-puhljbbgih7t7396uncfflonbqn41955.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjvDGkwPn7SJiByv6juXwsIWVA00REQFA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988600641069-puhljbbgih7t7396uncfflonbqn41955.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
